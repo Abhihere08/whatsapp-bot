@@ -1,0 +1,2 @@
+[phases.setup]
+nixPkgs = ["chromium", "libglib", "libnss", "libatk", "libatk-bridge", "libcups", "libdrm", "libxkbcommon", "libxcomposite", "libxdamage", "libxrandr", "libgbm", "libpango", "libcairo", "libasound", "libxshmfence", "libx11", "libx11-xcb", "libxext", "libxfixes", "libxi", "libxrender", "libxss", "libxtst", "fontconfig"]
